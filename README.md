@@ -1,2 +1,2 @@
 # codinclub
-First project
+First demo project
